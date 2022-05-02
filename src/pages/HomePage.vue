@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-red-600">
+  <div class="bg-blue-600">
     <p>Vue 3 Bootstrap</p>
   </div>
 </template>
