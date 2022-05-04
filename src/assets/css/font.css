@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'outer sans' ;
+    src: url() format("woff");
+}
+
+@font-face {
+    font-family: 'outer sans outline' ;
+    src: url() format("woff");
+}
+
+@font-face {
+    font-family: 'alpino' ;
+    src: url() format("woff");
+}

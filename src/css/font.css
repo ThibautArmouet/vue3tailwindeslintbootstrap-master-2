@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'outer sans' ;
+    src: url(../assets/font/MADEOuterSansBold.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'outer sans outline' ;
+    src: url(../assets/font/MADEOuterSansOutline.woff) format("woff");
+}
+
+@font-face {
+    font-family: 'alpino' ;
+    src: url(../assets/font/Alpino-Light.woff) format("woff");
+}
+
+p{
+    font-family: 'alpino';
+}
+
+h1{
+    font-family: 'outer sans';
+}
+
+h2{
+    font-family: 'outer sans';
+    text-transform: uppercase
+}
+
+h3{
+    font-family: 'outer sans';
+}
+
+.mail{
+    font-family: 'alpino';
+    text-transform: none;
+}
+
+span{
+    font-family: 'outer sans outline';
+    text-transform: uppercase
+}
+
+.nav{
+    font-family: 'outer sans';
+    text-transform: none;
+}

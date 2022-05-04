@@ -1,0 +1,31 @@
+<template>
+  <div class="relative mb-16">
+      <h2 class="relative text-white  z-20 text-4xl xl:text-7xl lg:text-7xl md:text-5xl sm:text-5xl">{{Title_content}}</h2>
+      <span class="absolute xl:-top-16 xl:left-16 lg:-top-16 lg:left-16 md:-top-8 md:left-16 sm:-top-8 sm:left-16 -top-8 left-16  text-white text-6xl xl:text-9xl lg:text-9xl md:text-7xl sm:text-7xl opacity-10 z-10">{{Span_content}}</span>
+
+  </div>
+</template>
+
+<script>
+/* eslint-disable */
+export default {
+    
+    props:{
+        Title_content:{
+            type: String,
+            require: true,
+        },
+
+          Span_content:{
+            type: String,
+            require: true,
+        }
+
+    }
+}
+</script>
+
+<style>
+
+</style>
+
