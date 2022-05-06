@@ -13,6 +13,10 @@
     src: url(../assets/font/Alpino-Light.woff) format("woff");
 }
 
+body{
+    background-color: #04151F;
+}
+
 p{
     font-family: 'alpino';
 }
