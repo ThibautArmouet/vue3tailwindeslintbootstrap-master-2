@@ -1,7 +1,15 @@
 <template>
   <div class="custom-cursor">
-    <div class="custom-cursor__circle" :style="circleStyle" ref="customCursorCircle"></div>
-    <div class="custom-cursor__dot" :style="dotStyle" ref="customCursorDot"></div>
+    <div
+      ref="customCursorCircle"
+      class="custom-cursor__circle"
+      :style="circleStyle"
+    />
+    <div
+      ref="customCursorDot"
+      class="custom-cursor__dot"
+      :style="dotStyle"
+    />
   </div>
 </template>
 
@@ -91,7 +99,7 @@ element{
   border: 1px solid #2f2f2f;
   border-radius: 50%;
   transform: translate(-100%, -100%);
-  transition: transform 0.4s var(--ease);
+  transition: transform 1.8s var(--ease);
   z-index: 1000;
 }
 .custom-cursor__dot {
@@ -104,7 +112,7 @@ element{
   border-radius: 50%;
   background-color: #2f2f2f;
   transform: translate(-100%, -100%);
-  transition: transform 0.2s var(--ease);
+  transition: transform 1.8s var(--ease);
   z-index: 1000;
 }
 </style>

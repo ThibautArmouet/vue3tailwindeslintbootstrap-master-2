@@ -1,6 +1,6 @@
 <template>
   <div class="pb-72 pt-32 relative z-50">
-      <H1>I’M a<br>web & graphic<br><span id="stroke">Designer</span></H1>
+    <H1>I’M a<br>web & graphic<br><span id="stroke">Designer</span></H1>
   </div>
 </template>
 

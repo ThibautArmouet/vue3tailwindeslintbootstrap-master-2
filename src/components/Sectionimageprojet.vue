@@ -1,36 +1,52 @@
 <template>
   <div class="margin">
-      <img :src="require(`@/assets/images/${link_picture_project_1}`)" alt="" class="image-large">
-      <img :src="require(`@/assets/images/${link_picture_project_2}`)" alt="" class="image-large">
-      <article id="container-imag-col">
-        <img :src="require(`@/assets/images/${link_picture_project_3}`)" alt="" class="image-col first">
-        <img :src="require(`@/assets/images/${link_picture_project_4}`)" alt="" class="image-col">
-      </article>
+    <img
+      :src="require(`../images/${linkPictureProject1}`)"
+      alt=""
+      class="image-large"
+    >
+    <img
+      :src="require(`../images/${linkPictureProject2}`)"
+      alt=""
+      class="image-large"
+    >
+    <article id="container-imag-col">
+      <img
+        :src="require(`../images/${linkPictureProject3}`)"
+        alt=""
+        class="image-col first"
+      >
+      <img
+        :src="require(`../images/${linkPictureProject4}`)"
+        alt=""
+        class="image-col"
+      >
+    </article>
   </div>
 </template>
 
 <script>
 export default {
 
-  props:{
+	props:{
 
-        link_picture_project_1:{
-            type: String,
-            require: true,
-        },
-        link_picture_project_2:{
-            type: String,
-            require: true,
-        },
-        link_picture_project_3:{
-            type: String,
-            require: true,
-        },
-        link_picture_project_4:{
-            type: String,
-            require: true,
-        },
-    }
+		linkPictureProject1:{
+			type: String,
+			required: true,
+		},
+		linkPictureProject2:{
+			type: String,
+			required: true,
+		},
+		linkPictureProject3:{
+			type: String,
+			required: true,
+		},
+		linkPictureProject4:{
+			type: String,
+			required: true,
+		},
+	}
 
 }
 </script>
