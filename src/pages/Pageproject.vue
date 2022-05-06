@@ -1,4 +1,5 @@
 <template>
+  <Heroproject />
   <Briefsection
     text-brief="Lors d’une compétition scolaire, nous avons était amené à travailler sur la problématique suivante : “ Comment démocratiser la diversité culturelle des spectacles vivants via le biais du digital et ceux sans algorithme ? ”.
 Ainsi nous avons chercher à en comprendre les contraintes  ( images veillissante, manque de communication etc.) afin de proposer des solutions globales et redynamiser ce secteur en perte de vitesse. 
@@ -24,11 +25,12 @@ import Section3 from '@/modules/Section3.vue'
 import Briefsection from '@/modules/Briefsection.vue'
 import Imagesection from '@/modules/Imagesection.vue'
 import Projectexplication from '@/modules/Projectexplication.vue'
+import Heroproject from '@/modules/Heroproject.vue'
 
 
 
 export default {
-  components: { Footer, Section3, Briefsection, Imagesection, Projectexplication,  },
+  components: { Footer, Section3, Briefsection, Imagesection, Projectexplication, Heroproject,  },
 
 }
 </script>

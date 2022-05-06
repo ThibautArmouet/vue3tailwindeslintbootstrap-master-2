@@ -36,6 +36,7 @@
 </template>
 
 <script>
+
 /* eslint-disable */ 
 import Cursor from './components/Cursor.vue'
 import Elipse from './components/Elipse.vue'
