@@ -7,13 +7,13 @@
     <h3 class="mb-14 text-2xl text-white text-['outer sans']">
       Par mail
     </h3>
-    <h2 class=" mail mb-24 text-4xl xl:text-8xl lg:text-7xl md:text-6xl text-[#B87D4B] hover:scale-95 hover:origin-left duration-300 transition-scale hover:tracking-wide	">
+    <h2 class=" mail mb-24 text-3xl xl:text-8xl lg:text-7xl md:text-6xl text-[#B87D4B] hover:scale-95 hover:origin-left duration-300 transition-scale hover:tracking-wide	">
       contact@thibautarmouet.fr
     </h2>
     <h3 class="mb-14 text-2xl text-white text-['outer sans']">
       Sur les réseaux sociaux
     </h3>
-    <div class="flex flex-row gap-24">
+    <div class="flex flex-row gap-8 xl:gap-24 lg:gap-24">
       <Sociallink
         link="https://dribbble.com/thibaut_rt"
         sociallink="Dribbble"

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#04151F] w-screen h-fit bg-[url('/src/images/noise.png')] bg-contain z-10">
+  <div class="bg-[#04151F] overflow-x-hidden	 w-full h-fit bg-[url('/src/images/noise.png')] bg-contain z-10">
     <Cursor 
       :targets="['a','li','mail',]"
       :circle-color="'#fff'"
@@ -52,7 +52,7 @@ export default {
 <style>
 
  @import './css/font.css';
- 
+
 
 </style>
 

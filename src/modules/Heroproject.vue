@@ -9,14 +9,14 @@
     </article>
        
         
-    <article class="text-white">
+    <article class="text-white px-9 mt-10 xl:mt-0 lg:mt-0 sm:px-12 md:px-12 lg:px-0 xl:px-0">
       <div class="xl:relative lg:relative xl:pr-[4%] xl:w-[90%] xl:h-20 lg:pr-[4%] lg:w-[90%] lg:h-20">
-        <h1 class=" text-3xl text-left sm:text-left	 md:text-left	 xl:absolute xl:right-0 lg:absolute lg:right-0 xl:text-8xl lg:text-8xl md:text-6xl sm:text-4xl">
+        <h1 class=" p-0 text-3xl text-left sm:text-left	 md:text-left	 xl:absolute xl:right-0 lg:absolute lg:right-0 xl:text-8xl lg:text-8xl md:text-6xl sm:text-4xl">
           Hypperplanning
         </h1>
       </div>
       
-      <div class=" mt-12 w-[80%] grid grid-cols-2">
+      <div class=" mt-4 xl:mt-12 lg:mt-12 w-[80%] grid grid-cols-2">
         <div class="text-white justify-self-start xl:justify-self-end lg:justify-self-end">
           <span>Services</span>
           <ul class="text-white">

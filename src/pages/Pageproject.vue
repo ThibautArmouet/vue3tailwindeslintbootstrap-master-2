@@ -37,4 +37,8 @@ export default {
 
 <style>
 
+template{
+  overflow-x: hidden;
+}
+
 </style>
