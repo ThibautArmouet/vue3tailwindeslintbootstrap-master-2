@@ -9,6 +9,7 @@
     credit2="Armuet Thibaut"
     credit3="Peynot Lauriane"
     credit4="Perera Manon"
+    title-project="Hackathon"
   />
   <Briefsection
     text-brief="Lors d’une compétition scolaire, nous avons était amené à travailler sur la problématique suivante : “ Comment démocratiser la diversité culturelle des spectacles vivants via le biais du digital et ceux sans algorithme ? ”.

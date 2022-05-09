@@ -1,5 +1,5 @@
 <template>
-  <div class="pb-72 pt-32 relative z-50">
+  <div class="xl:pb-72 lg:pb-72 md:pb-52 sm:pb-52 pb-32 pt-32 relative z-50">
     <H1>I’M a<br>web & graphic<br><span id="stroke">Designer</span></H1>
   </div>
 </template>
@@ -22,8 +22,8 @@ h1{
     font-family: "Outer Sans";
     color: white;
     line-height: 97%;
-    text-align: center;
-    padding: 0;
+    text-align: left;
+    padding: 0 7%;
     
    
 }

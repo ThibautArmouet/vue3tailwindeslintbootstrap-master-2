@@ -1,5 +1,5 @@
 <template>
-  <div class="px-[7%] py-72">
+  <div class="px-[7%] lg:py-72 xl:py-72 sm:py-40 py-40 ">
     <Title
       title-content="la demande client"
       span-content="Brief"

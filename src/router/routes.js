@@ -1,6 +1,9 @@
 /* eslint-disable */
 import HomePage from '@/pages/HomePage'
 import Pageproject from '@/pages/Pageproject'
+import Hackathon from '@/pages/Hackathon'
+import Hyperplanning from '@/pages/Hyperplanning'
+import Projectlist from '@/pages/Projectlist'
 
 export default [
 	
@@ -11,11 +14,27 @@ export default [
 		meta: { transition: 'slide-left' },
 	},
 
+
 	{ 
-		path: '/projet', 
-		name: 'projet',
-		component: Pageproject,
+		path: '/kult', 
+		name: 'kult',
+		component: Hackathon,
 		meta: { transition: 'slide-left' },
-	}
+	},
+
+	{ 
+		path: '/hyperplanning', 
+		name: 'hyperplanning',
+		component: Hyperplanning,
+		meta: { transition: 'slide-left' },
+	},
+
+	{ 
+		path: '/projets', 
+		name: 'projets',
+		component: Projectlist,
+		meta: { transition: 'slide-left' },
+	},
+
 	
 ]

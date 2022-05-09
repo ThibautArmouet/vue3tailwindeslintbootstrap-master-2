@@ -39,13 +39,34 @@ h3{
     font-family: 'alpino';
     text-transform: none;
 }
+li{
+    font-family: 'alpino';
+    text-transform: none; 
+}
 
 span{
     font-family: 'outer sans outline';
     text-transform: uppercase
 }
 
+.outlin{
+    font-family: 'outer sans outline';
+    text-transform: uppercase
+}
+
+.outlin:hover{
+
+    font-family: 'outer sans';
+    text-transform: uppercase;
+
+}
+
 .nav{
     font-family: 'outer sans';
     text-transform: none;
+}
+
+.span_project{
+    font-family: 'outer sans';
+    text-transform: uppercase;
 }

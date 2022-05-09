@@ -1,5 +1,5 @@
 <template>
-  <article class="mx-auto w-[90%]  xl:w-[80%] lg:w-[80%] md:w-[90%] sm:w-[90%] mb-72">
+  <article class="mx-auto w-[90%]  xl:w-[80%] lg:w-[80%] md:w-[90%] sm:w-[90%] lg:py-72 xl:py-72 sm:py-40 py-40 ">
     <aos-vue animation="fade-down">
       <img
         :src="require(`../images/${linkPictureProject1}`)"

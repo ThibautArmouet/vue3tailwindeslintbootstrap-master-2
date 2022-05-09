@@ -8,8 +8,7 @@
       :dot-color-hover="'#B87D4'"
       :hover-size="1.8"
     />
-    <Header />  
-   
+    <Header />   
     <RouterView v-slot="{Component, route}">
       <transition
         mode="out-in"
@@ -27,9 +26,6 @@
         </div>
       </transition>
     </RouterView>
-     
-
- 
     <Elipse class="fixed bottom-[40%] left-[60%] z-0 " />
     <Elipse class="fixed top-1/4 right-2/3 z-0" />
   </div>
