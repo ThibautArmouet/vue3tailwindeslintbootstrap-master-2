@@ -1,7 +1,5 @@
 <template>
-  <div class=" h-[900px]">
-
-  </div>
+  <div class=" h-[300px]" />
 </template>
 
 <script>

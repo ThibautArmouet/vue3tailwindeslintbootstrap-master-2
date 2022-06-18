@@ -4,6 +4,7 @@ import Pageproject from '@/pages/Pageproject'
 import Hackathon from '@/pages/Hackathon'
 import Hyperplanning from '@/pages/Hyperplanning'
 import Projectlist from '@/pages/Projectlist'
+import About from '@/pages/About'
 
 export default [
 	
@@ -33,6 +34,13 @@ export default [
 		path: '/projets', 
 		name: 'projets',
 		component: Projectlist,
+		meta: { transition: 'slide-left' },
+	},
+
+	{ 
+		path: '/about', 
+		name: 'about',
+		component: About,
 		meta: { transition: 'slide-left' },
 	},
 

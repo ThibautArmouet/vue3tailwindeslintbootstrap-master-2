@@ -1,12 +1,10 @@
 <template>
   <div class="z-40">
-    <Hero/>
-    <Section1/>
-    <Containercaroussel/>
-    <Section3/>
-    <Footer/>
-    
-    
+    <Hero />
+    <Section1 />
+    <Containercaroussel />
+    <Section3 />
+    <Footer />
   </div>
 </template>
 

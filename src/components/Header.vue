@@ -11,7 +11,7 @@
       <router-link to="/projets">
         <span class="mr-12 nav"> projets</span>
       </router-link>
-      <router-link to="/hyperplanning">
+      <router-link to="/about">
         <span class="nav">à propos</span>
       </router-link>
     </nav>

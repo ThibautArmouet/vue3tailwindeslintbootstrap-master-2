@@ -11,6 +11,7 @@
 @font-face {
     font-family: 'alpino' ;
     src: url(../assets/font/Alpino-Light.woff) format("woff");
+    font-weight: 100;
 }
 
 body{
@@ -35,6 +36,13 @@ h3{
     font-family: 'outer sans';
 }
 
+h4{
+    font-family: 'outer sans';
+}
+
+.years{
+    font-family: 'outer sans';
+}
 .mail{
     font-family: 'alpino';
     text-transform: none;
