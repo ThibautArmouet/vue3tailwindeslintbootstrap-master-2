@@ -7,7 +7,7 @@
 
     <article class="xl:mt-20 lg:mt-20 md:mt-14 sm:mt-8 mt-8 flex flex-row justify-between gap-14 xl:flex-nowrap	 lg:flex-wrap	 md:flex-wrap	  sm:flex-wrap  flex-wrap ">
       <img
-        src="../images/about/expérience.png"
+        src="../images/about/experience.png"
         alt=""
       >
       <div>
