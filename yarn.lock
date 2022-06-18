@@ -6317,6 +6317,11 @@ vue-router@4:
   dependencies:
     "@vue/devtools-api" "^6.0.0"
 
+vue-stack-grid-component@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/vue-stack-grid-component/-/vue-stack-grid-component-1.0.1.tgz#c1971a7ed573c879f93f42451884bf3d9463c2a0"
+  integrity sha512-Qy1KprztBsdc0drR/ioadWG32RRX+PXt1XQ0Xg2Yw0sr783HedvTPHY4jvhjDPH2zfwmRKnWwwv6gLQzpjjeGw==
+
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.3:
   version "4.1.3"
   resolved "https://registry.yarnpkg.com/vue-style-loader/-/vue-style-loader-4.1.3.tgz#6d55863a51fa757ab24e89d9371465072aa7bc35"

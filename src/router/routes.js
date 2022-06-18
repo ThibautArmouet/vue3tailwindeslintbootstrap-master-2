@@ -5,6 +5,7 @@ import Hackathon from '@/pages/Hackathon'
 import Hyperplanning from '@/pages/Hyperplanning'
 import Projectlist from '@/pages/Projectlist'
 import About from '@/pages/About'
+import Gridphoto from '@/pages/Gridphoto'
 
 export default [
 	
@@ -43,6 +44,14 @@ export default [
 		component: About,
 		meta: { transition: 'slide-left' },
 	},
+
+	{ 
+	path: '/phototheque', 
+	name: 'phototheque',
+	component: Gridphoto,
+	meta: { transition: 'slide-left' },
+},
+
 
 	
 ]

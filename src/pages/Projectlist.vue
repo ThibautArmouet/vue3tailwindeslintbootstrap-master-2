@@ -28,12 +28,12 @@
       link-project="/hyperplanning"
     />
     <Projectatome
-      title-project="Arcasloc"
-      skils1="ui design"
-      skils2="branding"
-      skils3="motion design"
+      title-project="Photothèques"
+      skils1="Portrait"
+      skils2="Street photographie"
+      skils3="Corporate"
       image_projectlist="waikiki/waikiki_brand.png"
-      link-project="/hyperplanning"
+      link-project="/phototheque"
     />
   </div>
   <Section3 />
