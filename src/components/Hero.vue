@@ -17,7 +17,7 @@ export default {
 @media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
 
 h1{
-    font-size: 56px;
+    font-size: 48px;
     text-transform:uppercase;
     font-family: "Outer Sans";
     color: white;

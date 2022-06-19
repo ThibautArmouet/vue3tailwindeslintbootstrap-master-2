@@ -1,6 +1,6 @@
 <template>
   <div class="pt-32 relative z-50">
-    <H1 class=" text-5xl sm:text-7xl lg:text-8xl  md:text-7xl xl:text-9xl mb-6 xl:mb-14 lg:mb-14 ">
+    <H1 class=" text-3xl sm:text-7xl lg:text-8xl  md:text-7xl xl:text-9xl mb-6 xl:mb-14 lg:mb-14 ">
       Designer web<br><span id="stroke">passionné</span>
     </H1>
     <img
