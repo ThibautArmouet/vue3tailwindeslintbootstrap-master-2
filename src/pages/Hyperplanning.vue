@@ -12,17 +12,15 @@
     title-project="Hyperplanning"
   />
   <Briefsection
-    text-brief="Hyperplanning est une solution proposé au institution éducative permettantla gestion des planning étudiant et professeur, mais également les échanges documentaire, le suivi de note et abscences. 
-Dans le cadre d’une étude produi,  nous avions pour objectif d’effectuer une refont graphique mais aussi une remise de la conception afin d’apporter une utilisation plus ergonomique, fluide et plus simple. 
-Voici comment nous avons put proposr une nouvelle vision produit plus chaleureux et permettant de centraliser les besoins des étudiants  "
+    text-brief="Hyperplanning est une solution proposée aux institutions éducatives permettant la gestion des plannings étudiants et professeur, mais également les échanges documentaires, le suivi de note et absences. Dans le cadre d’une étude produit, nous avions pour objectif d’effectuer une refont le graphique, mais aussi une remise de la conception afin d’apporter une utilisation plus ergonomique, fluide et plus simple. Voici comment nous avons pu proposer une nouvelle vision produit plus chaleureux et permettant de centraliser les besoins des étudiants"
   />
 
   <Projectexplication
     top-img="hyperplanning/hyper_existant.jpg"
     bottom-img="hyperplanning/hyper_ds.jpg"
     title-section="Design system"
-    content-section="Le design produit s’oppose au design créative de part ses contraintes technique dût à la diversité des utilisateur mais également dût à la récurrence de son utilisation. 
-De ce fait il est important, pour une meilleur maintenabilité des interfaces, de mettre en place un design system complet présentant à la fois des éléments et leur états (boutons, select, dropdown etc.) mais également les différents test de contrastes et d’accessibilité permettant au différents acteur du produits de suivre les même normes et ainsi maitenir une certaine homogénéité et cohérence."
+    content-section="Le design produit s’oppose au design créatif de par ses contraintes technique dû à la diversité des utilisateurs, mais également dut à la récurrence de son utilisation.
+De ce fait, il est important, pour une meilleure maintenabilité des interfaces, de mettre en place un design system complet présentant à la fois des éléments et leurs états (bouton, sélect, drop down, etc.) mais également les différents tests de contrastes et d’accessibilité permettant aux différents acteurs du produit de suivre les mêmes normes et ainsi maintenir une certaine homogénéité et cohérence."
   />
 
   <Imagesection

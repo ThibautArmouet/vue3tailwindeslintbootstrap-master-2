@@ -1,44 +1,88 @@
 <template>
   <div>
-    <div class="parent px-[6%] mt-32 mb-64 ">
+    <div class="parent px-[6%] mt-32  ">
       <div class="div1">
         <img
-          src="../images/photos/test.png"
+          src="../images/photos/2.webp"
           alt=""
           class="image_grid"
         >
       </div>
       <div class="div2">
         <img
-          src="../images/photos/2.png"
+          src="../images/photos/DSC00273.webp"
           alt=""
           class="image_grid"
         >
       </div>
       <div class="div3">
         <img
-          src="../images/photos/3.png"
+          src="../images/photos/4.webp"
           alt=""
           class="image_grid"
         >
       </div>
       <div class="div4">
         <img
-          src="../images/photos/4.png"
+          src="../images/photos/DSC00367.webp"
           alt=""
           class="image_grid"
         >
       </div>
       <div class="div5">
         <img
-          src="../images/photos/2.png"
+          src="../images/photos/3.webp"
           alt=""
           class="image_grid"
         >
       </div>
       <div class="div6">
         <img
-          src="../images/photos/test.png"
+          src="../images/photos/DSC00299-Modifier.webp"
+          alt=""
+          class="image_grid"
+        >
+      </div>
+    </div>
+    <div class="parent px-[6%] mt-6 mb-64 ">
+      <div class="div1">
+        <img
+          src="../images/photos/DSC01946.webp"
+          alt=""
+          class="image_grid"
+        >
+      </div>
+      <div class="div2">
+        <img
+          src="../images/photos/DSC02005.webp"
+          alt=""
+          class="image_grid"
+        >
+      </div>
+      <div class="div3">
+        <img
+          src="../images/photos/DSC01342.webp"
+          alt=""
+          class="image_grid"
+        >
+      </div>
+      <div class="div4">
+        <img
+          src="../images/photos/DSC01218.webp"
+          alt=""
+          class="image_grid"
+        >
+      </div>
+      <div class="div5">
+        <img
+          src="../images/photos/DSC01234.webp"
+          alt=""
+          class="image_grid"
+        >
+      </div>
+      <div class="div6">
+        <img
+          src="../images/photos/DSC01215.webp"
           alt=""
           class="image_grid"
         >

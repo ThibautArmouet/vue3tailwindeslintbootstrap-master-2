@@ -20,7 +20,7 @@
         />
       </article>
       <P class="columns-1 sm:columns-1 md:columns-1 lg:columns-2 xl:columns-2  text-white text-2xl xl:min-w-[700px] lg:min-w-[700px] md:min-w-[500px] min-w-[300px]">
-        Directeur artistique et designer produit junior, je crée des expériences engageantes pour vos utilisateurs tout en mettant au centre de ma conception ces derniers. Véritable épicurien curieux, je crois que l'inclusion et l'accessibilité  sont essentielles au progrès de la conception et impératives au processus UX. <br>    Mes compétences en intégration front-end me permettent de comprendre les besoins et enjeux du développement et ainsi soit vous proposer une intégration front-end, soit communiqué avec efficience avec vos équipes de développement.
+        Directeur artistique et designer produit junior, je crée des expériences engageantes pour vos utilisateurs tout en mettant au centre de ma conception ces derniers. Véritable épicurien curieux, je crois que l'inclusion et l'accessibilité sont essentielles au progrès de la conception et impératives au processus UX.<br>Mes compétences en intégration front-end me permet de comprendre les besoins et enjeux du développement et ainsi soit vous proposez une intégration front-end, soit communiqué avec efficience avec vos équipes de développement..
       </P>
     </div>
   </div>

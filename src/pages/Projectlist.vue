@@ -9,7 +9,7 @@
       skils2="branding"
       skils3="motion design"
       image_projectlist="waikiki/waikiki_brand.png"
-      link-project="/kult"
+      link-project="/waikiki"
     />
     <Projectatome
       title-project="Hackhaton"

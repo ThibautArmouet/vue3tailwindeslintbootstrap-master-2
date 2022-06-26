@@ -6,6 +6,7 @@ import Hyperplanning from '@/pages/Hyperplanning'
 import Projectlist from '@/pages/Projectlist'
 import About from '@/pages/About'
 import Gridphoto from '@/pages/Gridphoto'
+import Waikiki from '@/pages/Waikiki'
 
 export default [
 	
@@ -49,6 +50,13 @@ export default [
 	path: '/phototheque', 
 	name: 'phototheque',
 	component: Gridphoto,
+	meta: { transition: 'slide-left' },
+},
+
+{ 
+	path: '/waikiki', 
+	name: 'waikiki',
+	component: Waikiki,
 	meta: { transition: 'slide-left' },
 },
 
