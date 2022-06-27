@@ -8,7 +8,7 @@
       Par mail
     </h3>
     <h2 class=" mail mb-24 text-3xl xl:text-8xl lg:text-7xl md:text-6xl text-[#B87D4B] hover:scale-95 hover:origin-left duration-300 transition-scale hover:tracking-wide	">
-      contact@thibautarmouet.fr
+      <a href="mailto:thibautarmouet@gmail.com"> thibautarmouet@gmail.com</a>
     </h2>
     <h3 class="mb-14 text-2xl text-white text-['outer sans']">
       Sur les réseaux sociaux
