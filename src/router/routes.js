@@ -7,6 +7,7 @@ import Projectlist from '@/pages/Projectlist'
 import About from '@/pages/About'
 import Gridphoto from '@/pages/Gridphoto'
 import Waikiki from '@/pages/Waikiki'
+import Pegase from '@/pages/Pegase'
 
 export default [
 	
@@ -57,6 +58,13 @@ export default [
 	path: '/waikiki', 
 	name: 'waikiki',
 	component: Waikiki,
+	meta: { transition: 'slide-left' },
+},
+
+{ 
+	path: '/pegase', 
+	name: 'pegase',
+	component: Pegase,
 	meta: { transition: 'slide-left' },
 },
 

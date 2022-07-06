@@ -6,7 +6,7 @@
     <img
       src="../images/logo_footer.png"
       alt=""
-      class="w-[50%] sm:w-[50%] xl:w-[10%] lg:w-[20%] md:w-[20%]"
+      class="w-[50%] sm:w-[50%] xl:w-[10%] lg:w-[20%] md:w-[20%] object-contain"
     >
     <p class="text-white">
       Copyright 2021_2022

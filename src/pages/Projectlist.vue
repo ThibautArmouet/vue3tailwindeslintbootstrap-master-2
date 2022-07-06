@@ -35,6 +35,15 @@
       image_projectlist="waikiki/waikiki_brand.png"
       link-project="/phototheque"
     />
+    
+    <Projectatome
+      title-project="Crm pégase"
+      skils1="Product design"
+      skils2="Design system"
+      skils3="Conception"
+      image_projectlist="waikiki/waikiki_brand.png"
+      link-project="/pegase"
+    />
   </div>
   <Section3 />
   <Footer />
