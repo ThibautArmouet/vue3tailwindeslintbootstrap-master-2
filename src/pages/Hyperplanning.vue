@@ -12,7 +12,8 @@
     title-project="Hyperplanning"
   />
   <Briefsection
-    text-brief="Hyperplanning est une solution proposée aux institutions éducatives permettant la gestion des plannings étudiants et professeur, mais également les échanges documentaires, le suivi de note et absences. Dans le cadre d’une étude produit, nous avions pour objectif d’effectuer une refont le graphique, mais aussi une remise de la conception afin d’apporter une utilisation plus ergonomique, fluide et plus simple. Voici comment nous avons pu proposer une nouvelle vision produit plus chaleureux et permettant de centraliser les besoins des étudiants"
+    text-brief="Hyperplanning est une solution proposé aux institutions éducatives permettant la gestion des plannings étudiants et professeurs, les échanges documentaires, le suivi de notes et absences. 
+Dans le cadre d’une étude produit, nous avions pour missions d’effectuer une refonte graphique, mais surtout une remise en question de la conception, afin d’apporter une utilisation plus ergonomique, plus fluide et plus simple. Voici comment nous avons pu proposer une nouvelle vision produit, plus chaleureuse et permettant de centraliser les besoins des étudiants "
   />
 
   <Projectexplication

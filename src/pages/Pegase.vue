@@ -17,8 +17,8 @@ Après une phase de conception et de test utilisateurs, nous avons commencé ave
     top-img="pegase/pegase_wireframe.webp"
     bottom-img="pegase/pegase_ds.webp"
     title-section="Maintenir l’homogénéité"
-    content-section="Au vu de la complexité des interfaces mais également de par le nombre différent d’écran en fonction des accès, il était important de mettre un design system complet. 
-Orienté dans un esprit de design atomique ce dernier permet aux équipes de développement de gagner un temps précieux mais, dans le même temps permet une meilleure maintenabilité des interfaces et une homogénéité garantit."
+    content-section="Le client avait besoin de concevoir un logiciel de gestion de la relation client qui regroupait l’ensemble des tâches de chaque service.  Il était donc important d’inclure des fonctionnalités à la fois commerciales, administratives, comptables et techniques/logistiques. Ainsi il a fallu faire un gros travail d’enquêtes et de recherches sur les besoins et contraintes de chaque département et pouvoir ainsi, récolter les différents pains point de ces derniers. 
+Après une phase de conception et de test utilisateurs, nous avons commencé avec l’équipe de développement à travailler sur les interfaces et les contraintes techniques qui en découlent."
   />
 
   <Imagesection
